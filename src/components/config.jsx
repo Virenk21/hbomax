@@ -2,7 +2,7 @@ import React from 'react'
 
 const config = () => {
   return (
-    <div>config</div>
+    <div>config</div>fghnfghfgh
   )
 }
 
