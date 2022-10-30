@@ -2,7 +2,7 @@ import React from 'react'
 
 const tail = () => {
   return (
-    <div>tail</div>
+    <div> welcome to hbo max</div>
   )
 }
 
